@@ -1,2 +1,2 @@
-# social_media-fd
+# social_media
 An article about social media 
